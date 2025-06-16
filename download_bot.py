@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Your bot token from BotFather
-BOT_TOKEN = "7934506553:AAGSq64FsvB0jsIQ9DSsjv91c4gyak4XWOo"
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 
 class MusicBot:
     def __init__(self):
